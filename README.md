@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-Open the server URL shown by Vite (usually http://localhost:5173).
+Open the server URL shown by Vite https://mukesh-219.github.io/job-application-agent/
 
 Files of interest
 
